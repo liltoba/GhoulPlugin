@@ -1,0 +1,4 @@
+Ghoul Plugin
+version 1.0
+Coded BY liltoba
+Telegram : t.me/ghoulblack
